@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1603337103 source:e:\software project\wordpredictor\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<algorithm>
+	<string>
+	<cstring>
+
